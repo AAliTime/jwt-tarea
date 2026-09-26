@@ -1,5 +1,5 @@
 # RESULTADOS DE LOGIN MARIA
-##Login
+## Login
 ![publico](./maria/login.png)
 
 ## Público
@@ -12,7 +12,7 @@
 ![publico](./maria/admin.png)
 
 # RESULTADOS DE LOGIN ESTUDIANTES
-##Login
+## Login
 ![publico](./estudiante/login.png)
 
 ## Público
